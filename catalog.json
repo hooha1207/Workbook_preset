@@ -1,7 +1,7 @@
 {
     "meta": {
         "version": 1,
-        "last_updated": "2026-01-30"
+        "last_updated": "2026-03-22"
     },
     "items": [
         {
@@ -15,7 +15,7 @@
         },
         {
             "id": "physics_formula_001",
-            "description": "Introduction to atoms and molecules.",
+            "description": "",
             "file_url": "Workbook_Public_Samples/물리공식/물리공식_문제집.html",
             "cover_image_url": "Workbook_Public_Samples/물리공식/cover.png",
             "tags": [
@@ -25,7 +25,7 @@
         },
         {
             "id": "periodic table_001",
-            "description": "Limits and derivatives.",
+            "description": "",
             "file_url": "Workbook_Public_Samples/주기율표/주기율표_v3.html",
             "cover_image_url": "Workbook_Public_Samples/주기율표/cover.png",
             "tags": [
@@ -50,7 +50,291 @@
             "tags": [
                 "math"
             ]
+        },
+        {
+            "id": "lyrics_blooming_wild",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/Blooming Wild.html",
+            "cover_image_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/cover.png",
+            "tags": [
+                "lyrics"
+            ]
+        },
+        {
+            "id": "lyrics_dungeons",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/lyrics_workbook/Dungeons/Dungeons.html",
+            "cover_image_url": "Workbook_Public_Samples/lyrics_workbook/Dungeons/cover.png",
+            "tags": [
+                "lyrics"
+            ]
+        },
+        {
+            "id": "lyrics_ignite",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/lyrics_workbook/Ignite/Ignite.html",
+            "cover_image_url": "Workbook_Public_Samples/lyrics_workbook/Ignite/cover.png",
+            "tags": [
+                "lyrics"
+            ]
+        },
+        {
+            "id": "lyrics_lets_lose_control",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/lyrics_workbook/Let's Lose Control/Let's Lose Control.html",
+            "cover_image_url": "Workbook_Public_Samples/lyrics_workbook/Let's Lose Control/cover.png",
+            "tags": [
+                "lyrics"
+            ]
+        },
+        {
+            "id": "lyrics_lucky_spark",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/lyrics_workbook/Lucky Spark/Lucky Spark.html",
+            "cover_image_url": "Workbook_Public_Samples/lyrics_workbook/Lucky Spark/cover.png",
+            "tags": [
+                "lyrics"
+            ]
+        },
+        {
+            "id": "ytm_a_thousand_miles",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/A Thousand Miles/A Thousand Miles.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/A Thousand Miles/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_annihilate",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Annihilate/Annihilate.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Annihilate/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_closer",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Closer/Closer.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Closer/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_come_hang_out",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Come Hang Out/Come Hang Out.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Come Hang Out/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_cure_for_me",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Cure For Me/Cure For Me.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Cure For Me/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_good_time",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Good Time/Good Time.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Good Time/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_happier",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Happier/Happier.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Happier/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_i_really_like_you",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/I Really Like You/I Really Like You.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/I Really Like You/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_i_really_want_to_stay_at_your_house",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/I Really Want to Stay At Your House/I Really Want to Stay At Your House.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/I Really Want to Stay At Your House/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_immortals",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Immortals/Immortals.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Immortals/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_let_the_games_begin",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/LET THE GAMES BEGIN/LET THE GAMES BEGIN.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/LET THE GAMES BEGIN/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_maps",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Maps/Maps.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Maps/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_moves_like_jagger",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Moves Like Jagger/Moves Like Jagger.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Moves Like Jagger/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_payphone",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Payphone/Payphone.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Payphone/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_shooting_star",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Shooting Star/Shooting Star.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Shooting Star/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_stay",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Stay/Stay.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Stay/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_sugar",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Sugar/Sugar.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Sugar/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_sunflower",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Sunflower/Sunflower.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Sunflower/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_take_me_home",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Take Me Home/Take Me Home.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Take Me Home/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_the_lazy_song",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/The Lazy Song/The Lazy Song.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/The Lazy Song/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_to_the_dungeons",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/To the Dungeons/To the Dungeons.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/To the Dungeons/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_tokyo",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Tokyo/Tokyo.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Tokyo/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_uptown_funk",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Uptown Funk/Uptown Funk.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Uptown Funk/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_whats_up_danger",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/What's Up Danger/What's Up Danger.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/What's Up Danger/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
         }
-        
     ]
 }
