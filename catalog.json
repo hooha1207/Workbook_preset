@@ -197,6 +197,16 @@
             ]
         },
         {
+            "id": "ytm_ordinaryish_people",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Ordinaryish People/Ordinaryish People.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Ordinaryish People/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
             "id": "ytm_let_the_games_begin",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/LET THE GAMES BEGIN/LET THE GAMES BEGIN.html",
@@ -241,6 +251,16 @@
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Shooting Star/Shooting Star.html",
             "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Shooting Star/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_sober_up",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Sober Up/Sober Up.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Sober Up/cover.png",
             "tags": [
                 "lyrics",
                 "youtubeMusic"
