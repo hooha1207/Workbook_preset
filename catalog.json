@@ -1,7 +1,7 @@
 {
     "meta": {
         "version": 1,
-        "last_updated": "2026-03-22"
+        "last_updated": "2026-04-01"
     },
     "items": [
         {
@@ -137,6 +137,16 @@
             ]
         },
         {
+            "id": "ytm_counting_stars",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Counting Stars/Counting Stars.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Counting Stars/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
             "id": "ytm_cure_for_me",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Cure For Me/Cure For Me.html",
@@ -161,6 +171,16 @@
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Happier/Happier.html",
             "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Happier/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_i_ain_t_worried",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/I Ain't Worried/I Ain't Worried.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/I Ain't Worried/cover.png",
             "tags": [
                 "lyrics",
                 "youtubeMusic"
@@ -197,16 +217,6 @@
             ]
         },
         {
-            "id": "ytm_ordinaryish_people",
-            "description": "",
-            "file_url": "Workbook_Public_Samples/youtubeMusic/Ordinaryish People/Ordinaryish People.html",
-            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Ordinaryish People/cover.png",
-            "tags": [
-                "lyrics",
-                "youtubeMusic"
-            ]
-        },
-        {
             "id": "ytm_let_the_games_begin",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/LET THE GAMES BEGIN/LET THE GAMES BEGIN.html",
@@ -227,6 +237,16 @@
             ]
         },
         {
+            "id": "ytm_memories",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Memories/Memories.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Memories/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
             "id": "ytm_moves_like_jagger",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Moves Like Jagger/Moves Like Jagger.html",
@@ -237,10 +257,50 @@
             ]
         },
         {
+            "id": "ytm_one_more_night",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/One More Night/One More Night.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/One More Night/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
             "id": "ytm_payphone",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Payphone/Payphone.html",
             "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Payphone/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_peaches",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Peaches/Peaches.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Peaches/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_rasputin",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Rasputin/Rasputin.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Rasputin/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_shape_of_you",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Shape of You/Shape of You.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Shape of You/cover.png",
             "tags": [
                 "lyrics",
                 "youtubeMusic"
@@ -297,6 +357,16 @@
             ]
         },
         {
+            "id": "ytm_symphony",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Symphony/Symphony.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Symphony/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
             "id": "ytm_take_me_home",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/Take Me Home/Take Me Home.html",
@@ -347,10 +417,20 @@
             ]
         },
         {
-            "id": "ytm_whats_up_danger",
+            "id": "ytm_what_s_up_danger",
             "description": "",
             "file_url": "Workbook_Public_Samples/youtubeMusic/What's Up Danger/What's Up Danger.html",
             "cover_image_url": "Workbook_Public_Samples/youtubeMusic/What's Up Danger/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_world_s_smallest_violin",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/World's Smallest Violin/World's Smallest Violin.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/World's Smallest Violin/cover.png",
             "tags": [
                 "lyrics",
                 "youtubeMusic"
