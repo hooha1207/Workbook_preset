@@ -435,6 +435,26 @@
                 "lyrics",
                 "youtubeMusic"
             ]
+        },
+        {
+            "id": "ytm_waste_your_time",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Waste Your Time/Waste Your Time.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Waste Your Time/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
+        },
+        {
+            "id": "ytm_mona_lisa",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/youtubeMusic/Mona Lisa/Mona Lisa.html",
+            "cover_image_url": "Workbook_Public_Samples/youtubeMusic/Mona Lisa/cover.png",
+            "tags": [
+                "lyrics",
+                "youtubeMusic"
+            ]
         }
     ]
 }
