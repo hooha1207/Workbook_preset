@@ -52,6 +52,15 @@
             ]
         },
         {
+            "id": "수학 관련 영단어",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/수학/수학관련 영단어.html",
+            "cover_image_url": "Workbook_Public_Samples/수학/cover.png",
+            "tags": [
+                "math"
+            ]
+        },
+        {
             "id": "lyrics_blooming_wild",
             "description": "",
             "file_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/Blooming Wild.html",
