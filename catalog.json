@@ -61,6 +61,15 @@
             ]
         },
         {
+            "id": "화학 관련 영단어",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/화학/화학관련 영단어.html",
+            "cover_image_url": "Workbook_Public_Samples/화학/cover.png",
+            "tags": [
+                "chemistry"
+            ]
+        },
+        {
             "id": "lyrics_blooming_wild",
             "description": "",
             "file_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/Blooming Wild.html",
