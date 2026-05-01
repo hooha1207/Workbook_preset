@@ -79,6 +79,15 @@
             ]
         },
         {
+            "id": "생물학 관련 영단어",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/생물학/생물학관련 영단어.html",
+            "cover_image_url": "Workbook_Public_Samples/생물학/cover.png",
+            "tags": [
+                "biology"
+            ]
+        },
+        {
             "id": "lyrics_blooming_wild",
             "description": "",
             "file_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/Blooming Wild.html",
