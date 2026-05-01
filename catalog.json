@@ -70,6 +70,15 @@
             ]
         },
         {
+            "id": "물리 관련 영단어",
+            "description": "",
+            "file_url": "Workbook_Public_Samples/물리/물리관련 영단어.html",
+            "cover_image_url": "Workbook_Public_Samples/물리/cover.png",
+            "tags": [
+                "physics"
+            ]
+        },
+        {
             "id": "lyrics_blooming_wild",
             "description": "",
             "file_url": "Workbook_Public_Samples/lyrics_workbook/Blooming Wild/Blooming Wild.html",
