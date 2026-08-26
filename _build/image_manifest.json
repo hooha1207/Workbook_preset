@@ -1,0 +1,578 @@
+{
+  "tool_05": {
+    "official": "콤비네이션 렌치",
+    "file": "tool_05.jpg",
+    "source_title": "File:Gedore No. 7 combination wrenches 6–19 mm.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Lucasbosch"
+  },
+  "tool_07": {
+    "official": "조절식 렌치",
+    "file": "tool_07.jpg",
+    "source_title": "File:2023 Klucz nastawny.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A2023_Klucz_nastawny.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Jacek Halicki"
+  },
+  "tool_10": {
+    "official": "드라이버",
+    "file": "tool_10.png",
+    "source_title": "File:Black screwdriver.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABlack_screwdriver.png",
+    "license": "CC BY 4.0",
+    "artist": "多多123"
+  },
+  "tool_12": {
+    "official": "임팩 렌치",
+    "file": "tool_12.jpg",
+    "source_title": "File:Impact wrench 01.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AImpact_wrench_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Bushytails at English Wikipedia"
+  },
+  "tool_13": {
+    "official": "플라이어",
+    "file": "tool_13.jpg",
+    "source_title": "File:Tool-pliers.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATool-pliers.jpg",
+    "license": "Public domain",
+    "artist": "Evan-Amos"
+  },
+  "tool_14": {
+    "official": "니퍼",
+    "file": "tool_14.jpg",
+    "source_title": "File:Compound action wire cutters.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACompound_action_wire_cutters.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Twotonetoo"
+  },
+  "tool_15": {
+    "official": "롱노즈 플라이어",
+    "file": "tool_15.jpg",
+    "source_title": "File:Long-nosePliers.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALong-nosePliers.jpg",
+    "license": "CC0",
+    "artist": "Raysonho @ Open Grid Scheduler / Grid Engine"
+  },
+  "tool_16": {
+    "official": "바이스 플라이어",
+    "file": "tool_16.jpg",
+    "source_title": "File:Locking pliers.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALocking_pliers.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": ""
+  },
+  "tool_17": {
+    "official": "워터펌프 플라이어",
+    "file": "tool_17.jpg",
+    "source_title": "File:Various tongue-and-groove pliers in hardware store in Germany.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AVarious_tongue-and-groove_pliers_in_hardware_store_in_Germany.jpg",
+    "license": "CC0",
+    "artist": "Pittigrilli"
+  },
+  "tool_18": {
+    "official": "클램프",
+    "file": "tool_18.jpg",
+    "source_title": "File:1960s F clamp by Broederna Wibells Smidesfabrik Eskilstuna Sweden.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1960s_F_clamp_by_Broederna_Wibells_Smidesfabrik_Eskilstuna_Sweden.jpg",
+    "license": "CC BY 4.0",
+    "artist": "R. Henrik Nilsson"
+  },
+  "tool_20": {
+    "official": "벤치 바이스",
+    "file": "tool_20.jpg",
+    "source_title": "File:An engineer's vise.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAn_engineer%27s_vise.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Dmitry Makeev"
+  },
+  "tool_23": {
+    "official": "절단석",
+    "file": "tool_23.jpg",
+    "source_title": "File:Grinder diamond blade.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AGrinder_diamond_blade.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Hustvedt"
+  },
+  "tool_24": {
+    "official": "연마석",
+    "file": "tool_24.jpg",
+    "source_title": "File:Angle grinder disc for dummies.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAngle_grinder_disc_for_dummies.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "Dmitry G"
+  },
+  "tool_25": {
+    "official": "줄톱",
+    "file": "tool_25.jpg",
+    "source_title": "File:Hacksaw with grey handle.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHacksaw_with_grey_handle.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Luke Milburn"
+  },
+  "tool_26": {
+    "official": "파이프 커터",
+    "file": "tool_26.jpg",
+    "source_title": "File:Pipecutter 20050728 001.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APipecutter_20050728_001.jpg",
+    "license": "Public domain",
+    "artist": "Jonas Bergsten"
+  },
+  "tool_27": {
+    "official": "철판가위",
+    "file": "tool_27.jpg",
+    "source_title": "File:Early 20th century tin snips by Johann Heinrich Braun Ronsdorf Germany view 1.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEarly_20th_century_tin_snips_by_Johann_Heinrich_Braun_Ronsdorf_Germany_view_1.jpg",
+    "license": "CC BY 4.0",
+    "artist": "R. Henrik Nilsson"
+  },
+  "tool_28": {
+    "official": "커터칼",
+    "file": "tool_28.jpg",
+    "source_title": "File:Box-cutter.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABox-cutter.jpg",
+    "license": "Public domain",
+    "artist": "Evan-Amos"
+  },
+  "tool_30": {
+    "official": "디버링 툴",
+    "file": "tool_30.jpg",
+    "source_title": "File:Pipe-deburring-tool.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APipe-deburring-tool.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Cschirp"
+  },
+  "tool_34": {
+    "official": "로터리 해머 드릴",
+    "file": "tool_34.jpg",
+    "source_title": "File:Bosh GBH 4 DFE (Olav).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABosh_GBH_4_DFE_%28Olav%29.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Olav Surawski"
+  },
+  "tool_36": {
+    "official": "홀쏘",
+    "file": "tool_36.jpg",
+    "source_title": "File:Adjustable hole saw.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAdjustable_hole_saw.JPG",
+    "license": "CC BY-SA 2.0 ca",
+    "artist": "Luigi Zanasi"
+  },
+  "tool_37": {
+    "official": "드릴 비트",
+    "file": "tool_37.jpg",
+    "source_title": "File:Drill bits 2017 G1.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADrill_bits_2017_G1.jpg",
+    "license": "Public domain",
+    "artist": "George Chernilevsky"
+  },
+  "tool_39": {
+    "official": "센터펀치",
+    "file": "tool_39.jpg",
+    "source_title": "File:Dot Punch.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADot_Punch.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Luke Milburn"
+  },
+  "tool_41": {
+    "official": "줄자",
+    "file": "tool_41.jpg",
+    "source_title": "File:B&Q Tape Measure.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AB%26Q_Tape_Measure.jpg",
+    "license": "CC BY 4.0",
+    "artist": "多多123"
+  },
+  "tool_42": {
+    "official": "수평계",
+    "file": "tool_42.jpg",
+    "source_title": "File:Spirit level 20200524.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASpirit_level_20200524.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Ka23 13"
+  },
+  "tool_45": {
+    "official": "마킹펜",
+    "file": "tool_45.jpg",
+    "source_title": "File:Permanent ink marker - chisel tip.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APermanent_ink_marker_-_chisel_tip.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "J.smith"
+  },
+  "tool_46": {
+    "official": "직각자",
+    "file": "tool_46.png",
+    "source_title": "File:Testing a try square for accuracy.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATesting_a_try_square_for_accuracy.png",
+    "license": "CC BY-SA 4.0",
+    "artist": "LittleDwangs"
+  },
+  "tool_47": {
+    "official": "버니어 캘리퍼스",
+    "file": "tool_47.jpg",
+    "source_title": "File:Messschieber.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMessschieber.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "ArtMechanic"
+  },
+  "tool_49": {
+    "official": "파이프 렌치",
+    "file": "tool_49.jpg",
+    "source_title": "File:Pipe Wrench.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APipe_Wrench.jpg",
+    "license": "Public domain",
+    "artist": "Jayess"
+  },
+  "tool_52": {
+    "official": "리머",
+    "file": "tool_52.png",
+    "source_title": "File:Reamer 4 (PSF).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AReamer_4_%28PSF%29.png",
+    "license": "Public domain",
+    "artist": "Pearson Scott Foresman"
+  },
+  "tool_55": {
+    "official": "나사 절삭기",
+    "file": "tool_55.jpg",
+    "source_title": "File:Pipe Threading Machine PMNA025.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APipe_Threading_Machine_PMNA025.jpg",
+    "license": "Public domain",
+    "artist": "M338"
+  },
+  "tool_57": {
+    "official": "테프론 테이프",
+    "file": "tool_57.jpg",
+    "source_title": "File:Thread seal tape.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThread_seal_tape.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Carlos6913"
+  },
+  "tool_59": {
+    "official": "압착기",
+    "file": "tool_59.jpg",
+    "source_title": "File:Crimping tool3.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACrimping_tool3.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "messi"
+  },
+  "tool_60": {
+    "official": "전공칼",
+    "file": "tool_60.jpg",
+    "source_title": "File:Japanese Electricians Knife.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJapanese_Electricians_Knife.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "shampoorobot"
+  },
+  "tool_62": {
+    "official": "멀티미터",
+    "file": "tool_62.jpg",
+    "source_title": "File:2017 Cyfrowy miernik uniwersalny.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A2017_Cyfrowy_miernik_uniwersalny.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Jacek Halicki"
+  },
+  "tool_63": {
+    "official": "클램프 미터",
+    "file": "tool_63.jpg",
+    "source_title": "File:Clampmeter Fluke 337.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AClampmeter_Fluke_337.jpg",
+    "license": "Public domain",
+    "artist": "Harke"
+  },
+  "tool_65": {
+    "official": "실리콘 건",
+    "file": "tool_65.jpg",
+    "source_title": "File:Caulking.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACaulking.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Achim Hering"
+  },
+  "tool_66": {
+    "official": "래칫 타이다운",
+    "file": "tool_66.jpg",
+    "source_title": "File:Custom made tie down strap.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACustom_made_tie_down_strap.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "DustinMoving"
+  },
+  "tool_67": {
+    "official": "해머",
+    "file": "tool_67.jpg",
+    "source_title": "File:Claw hammer 2.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AClaw_hammer_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "HutheMeow"
+  },
+  "tool_69": {
+    "official": "프라이 바",
+    "file": "tool_69.jpg",
+    "source_title": "File:Crowbar without haft.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACrowbar_without_haft.jpg",
+    "license": "Public domain",
+    "artist": "Juha Kämäräinen"
+  },
+  "tool_70": {
+    "official": "사다리",
+    "file": "tool_70.png",
+    "source_title": "File:Stepladder (PSF).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AStepladder_%28PSF%29.png",
+    "license": "Public domain",
+    "artist": "Pearson Scott Foresman"
+  },
+  "tool_72": {
+    "official": "이동식 비계",
+    "file": "tool_72.jpg",
+    "source_title": "File:Subscription Rooms auditorium mobile Scaffold Tower Stroud Gloucestershire England 01.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASubscription_Rooms_auditorium_mobile_Scaffold_Tower_Stroud_Gloucestershire_England_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Acabashi"
+  },
+  "tool_74": {
+    "official": "공구함",
+    "file": "tool_74.jpg",
+    "source_title": "File:Toolbox.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AToolbox.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "L3D"
+  },
+  "tool_02": {
+    "official": "소켓",
+    "file": "tool_02.jpg",
+    "source_title": "File:Chrome-Vanadium-Socket-Set 28123-480x360 (4904993950).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AChrome-Vanadium-Socket-Set_28123-480x360_%284904993950%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Emilian Robert Vicol from Com. Balanesti, Romania"
+  },
+  "tool_06": {
+    "official": "오픈엔드 렌치",
+    "file": "tool_06.jpg",
+    "source_title": "File:1970s Derby open end spanner made in Poland sizes 6 and 7.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1970s_Derby_open_end_spanner_made_in_Poland_sizes_6_and_7.jpg",
+    "license": "CC BY 4.0",
+    "artist": "R. Henrik Nilsson"
+  },
+  "tool_08": {
+    "official": "육각 렌치",
+    "file": "tool_08.jpg",
+    "source_title": "File:Allen keys.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAllen_keys.jpg",
+    "license": "Public domain",
+    "artist": "Scott Ehardt"
+  },
+  "tool_09": {
+    "official": "별 렌치",
+    "file": "tool_09.jpg",
+    "source_title": "File:Folding-Star-Key-142874-480x360 (4904404617).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFolding-Star-Key-142874-480x360_%284904404617%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Emilian Robert Vicol from Com. Balanesti, Romania"
+  },
+  "tool_19": {
+    "official": "C형 클램프",
+    "file": "tool_19.jpg",
+    "source_title": "File:CClamp.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACClamp.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Eiliv"
+  },
+  "tool_22": {
+    "official": "핸드 그라인더",
+    "file": "tool_22.jpg",
+    "source_title": "File:Steel iron construction worker - 8338.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASteel_iron_construction_worker_-_8338.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Jorge Royan"
+  },
+  "tool_32": {
+    "official": "전동 드릴",
+    "file": "tool_32.jpg",
+    "source_title": "File:Panasonic Cordless Drill & Driver EY1DD2, Ottobrunn (20250410-P1046293).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APanasonic_Cordless_Drill_%26_Driver_EY1DD2%2C_Ottobrunn_%2820250410-P1046293%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Matti Blume"
+  },
+  "tool_35": {
+    "official": "코어 드릴",
+    "file": "tool_35.jpg",
+    "source_title": "File:Drill diamond core.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADrill_diamond_core.jpg",
+    "license": "CC SA 1.0",
+    "artist": ""
+  },
+  "tool_38": {
+    "official": "스텝 드릴",
+    "file": "tool_38.jpg",
+    "source_title": "File:Pair of unibits aka step bits.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APair_of_unibits_aka_step_bits.jpg",
+    "license": "CC0",
+    "artist": "Junkyardsparkle"
+  },
+  "tool_43": {
+    "official": "레이저 레벨기",
+    "file": "tool_43.jpg",
+    "source_title": "File:Laser line level.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALaser_line_level.jpg",
+    "license": "Public domain",
+    "artist": "Jeremykemp at en.wikipedia"
+  },
+  "tool_53": {
+    "official": "파이프 밴더",
+    "file": "tool_53.jpg",
+    "source_title": "File:Offset chart on handle of hand bender for half inch EMT conduit J. Morris CC BY-SA-3.0.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AOffset_chart_on_handle_of_hand_bender_for_half_inch_EMT_conduit_J._Morris_CC_BY-SA-3.0.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Jcmorris2"
+  },
+  "tool_58": {
+    "official": "와이어 스트리퍼",
+    "file": "tool_58.jpg",
+    "source_title": "File:Self adjusting automatic wire stripper 211934.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASelf_adjusting_automatic_wire_stripper_211934.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "Dmitry G"
+  },
+  "tool_68": {
+    "official": "고무망치",
+    "file": "tool_68.jpg",
+    "source_title": "File:Dead blow hammer.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADead_blow_hammer.jpg",
+    "license": "Public domain",
+    "artist": "Dfloren1 at English Wikipedia"
+  },
+  "tool_01": {
+    "official": "라쳇 렌치 / 라쳇 핸들",
+    "file": "tool_01.jpg",
+    "source_title": "File:Ratchet wrench with single nail.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARatchet_wrench_with_single_nail.jpg",
+    "license": "CC0",
+    "artist": "M338"
+  },
+  "tool_04": {
+    "official": "유니버셜 조인트",
+    "file": "tool_04.png",
+    "source_title": "File:Universal Joint (PSF).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AUniversal_Joint_%28PSF%29.png",
+    "license": "Public domain",
+    "artist": "Pearson Scott Foresman"
+  },
+  "tool_11": {
+    "official": "토크 렌치",
+    "file": "tool_11.jpg",
+    "source_title": "File:Click-torque-wrench.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AClick-torque-wrench.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "No machine-readable author provided. Heron2 assumed (based on copyright claims)."
+  },
+  "tool_21": {
+    "official": "파이프 바이스",
+    "file": "tool_21.jpg",
+    "source_title": "File:Pipe Vice J. Morris CC BY-SA-3.0.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APipe_Vice_J._Morris_CC_BY-SA-3.0.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Jeremy Morris"
+  },
+  "tool_31": {
+    "official": "컷쏘",
+    "file": "tool_31.jpg",
+    "source_title": "File:Reciprocating Saw.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AReciprocating_Saw.JPG",
+    "license": "Public domain",
+    "artist": "Junglecat"
+  },
+  "tool_33": {
+    "official": "해머 드릴",
+    "file": "tool_33.jpg",
+    "source_title": "File:Hammer drill-1.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHammer_drill-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Shakespeare at en.wikipedia"
+  },
+  "tool_44": {
+    "official": "먹줄",
+    "file": "tool_44.jpg",
+    "source_title": "File:Chalk line reel (AM 713530-4).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AChalk_line_reel_%28AM_713530-4%29.jpg",
+    "license": "CC BY 4.0",
+    "artist": ""
+  },
+  "tool_48": {
+    "official": "레이저 거리측정기",
+    "file": "tool_48.jpg",
+    "source_title": "File:1024 Laser-Entfernungsmesser Bosch PLR15-0219.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1024_Laser-Entfernungsmesser_Bosch_PLR15-0219.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Hedwig Storch"
+  },
+  "tool_51": {
+    "official": "스트랩 렌치",
+    "file": "tool_51.jpg",
+    "source_title": "File:Strap wrench.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AStrap_wrench.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "Tenbergen (talk)"
+  },
+  "tool_61": {
+    "official": "요비선",
+    "file": "tool_61.jpg",
+    "source_title": "File:Fish tape material comparison.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFish_tape_material_comparison.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "J.C. Fields (Talk) (Uploads)"
+  },
+  "tool_64": {
+    "official": "리벳건",
+    "file": "tool_64.jpg",
+    "source_title": "File:Pop rivet gun.jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APop_rivet_gun.jpeg",
+    "license": "CC0",
+    "artist": "20px|link=User:Kcida10|Kcida10  Kcida10 (talk) (Uploads)."
+  },
+  "tool_71": {
+    "official": "작업대",
+    "file": "tool_71.jpg",
+    "source_title": "File:CH.ZG.Zug Museum-Burg-Zug shoemaker's-workbench-around-1930.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ACH.ZG.Zug_Museum-Burg-Zug_shoemaker%27s-workbench-around-1930.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Roy Egloff"
+  },
+  "tool_73": {
+    "official": "비계 발판",
+    "file": "tool_73.jpg",
+    "source_title": "File:Tongue and groove deck boards have been installed over the porch deck framing and preservationists begin priming the wood. (e835661e-a2c8-4673-8e4c-8910c432b68f).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATongue_and_groove_deck_boards_have_been_installed_over_the_porch_deck_framing_and_preservationists_begin_priming_the_wood._%28e835661e-a2c8-4673-8e4c-8910c432b68f%29.jpg",
+    "license": "Public domain",
+    "artist": "NPS Photo"
+  },
+  "tool_03": {
+    "official": "익스텐션 바",
+    "file": "tool_03.jpg",
+    "source_title": "File:Breaker bar.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABreaker_bar.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Scientific29"
+  },
+  "tool_40": {
+    "official": "앙카 펀치",
+    "file": "tool_40.jpg",
+    "source_title": "File:Anchor bolt in concrete.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAnchor_bolt_in_concrete.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Zeizmic at English Wikipedia"
+  },
+  "tool_50": {
+    "official": "체인 렌치",
+    "file": "tool_50.jpg",
+    "source_title": "File:US Navy 090716-N-8590G-009 A chain wrench clamps a pipe patch to prevent further flooding of a space during the Damage Control Olympics at Mayport Naval Base.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AUS_Navy_090716-N-8590G-009_A_chain_wrench_clamps_a_pipe_patch_to_prevent_further_flooding_of_a_space_during_the_Damage_Control_Olympics_at_Mayport_Naval_Base.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Navy photo by Mass Communication Specialist 2nd Class Gary B. Granger Jr."
+  },
+  "tool_29": {
+    "official": "줄",
+    "file": "tool_29.jpg",
+    "source_title": "File:Hand files and rasps.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHand_files_and_rasps.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Michaelkurek011"
+  }
+}

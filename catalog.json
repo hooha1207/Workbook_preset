@@ -1,7 +1,7 @@
 {
     "meta": {
         "version": 1,
-        "last_updated": "2026-04-01"
+        "last_updated": "2026-08-26"
     },
     "items": [
         {
@@ -490,6 +490,15 @@
             "tags": [
                 "lyrics",
                 "youtubeMusic"
+            ]
+        },
+        {
+            "id": "construction_tools_001",
+            "description": "건설현장 공구 이름 학습 문제집 - 정식 명칭과 기능을 보고 현장 명칭(별칭)을 맞히는 퀴즈 74문항",
+            "file_url": "Workbook_Public_Samples/건설현장공구/건설현장공구_문제집.html",
+            "cover_image_url": "Workbook_Public_Samples/건설현장공구/cover.png",
+            "tags": [
+                "construction"
             ]
         }
     ]
