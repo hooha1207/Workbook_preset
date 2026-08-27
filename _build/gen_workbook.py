@@ -190,6 +190,8 @@ def main():
 </html>
 """
 
+    import re
+    html = re.sub(r">\s+<", "><", html)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"생성 완료: {OUT_PATH}")
