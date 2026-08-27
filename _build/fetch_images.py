@@ -39,8 +39,8 @@ STOPWORDS = {"tool", "set", "with", "and", "for", "the", "hand", "use", "used"}
 # 재수집이 필요한 항목의 전용 검색어 (tid -> 쿼리 리스트) — Commons 전문검색은 AND매칭이라 짧게 유지
 QUERY_OVERRIDES = {
     "tool_01": ["ratchet wrench", "ratchet handle"],
-    "tool_03": ["breaker bar", "socket extension"],
-    "tool_04": ["universal joint", "cardan joint"],
+    "tool_03": ["socket extension bar wobble", "extension bar socket"],
+    "tool_04": ["universal joint socket wrench", "u-joint socket drive"],
     "tool_08": ["allen keys hexagon key", "hex key wrench set"],
     "tool_09": ["torx keys star key", "torx screwdriver bit"],
     "tool_11": ["torque wrench", "drehmoment schlüssel"],
@@ -52,21 +52,25 @@ QUERY_OVERRIDES = {
     "tool_33": ["hammer drill", "bohrhammer"],
     "tool_35": ["core drill machine concrete hole", "core drilling rig wall"],
     "tool_38": ["step drill cone bit holes", "unibit step drill"],
-    "tool_40": ["anchor bolt", "ankerbolzen"],
+    "tool_22": ["angle grinder power tool", "angle grinder"],
+    "tool_40": ["anchor setting tool punch", "drop in anchor setting tool"],
+    "tool_52": ["hand reamer tool", "pipe reamer cutter"],
     "tool_43": ["line laser level construction beam", "rotary laser level tripod"],
     "tool_44": ["chalk line reel", "chalk line"],
     "tool_48": ["laser entfernungsmesser", "laser distance meter"],
     "tool_50": ["chain pipe wrench", "kettenrohrzange"],
     "tool_51": ["strap wrench", "ölfilterzange"],
+    "tool_52": ["hand reamer tool", "pipe reamer cutter"],
     "tool_53": ["pipe bender tool tube bending machine", "conduit bender handles"],
-    "tool_54": ["bördelgerät", "flaring clamp brake line"],
-    "tool_56": ["welding roller stand pipe", "pipe support stand"],
+    "tool_54": ["flaring tool brake line", "flaring tool copper tube"],
+    "tool_56": ["pipe roller stand", "pipe support stand welding"],
     "tool_58": ["wire strippers pliers insulation", "automatic wire stripper tool"],
     "tool_61": ["fish tape", "drahtziehband"],
     "tool_64": ["rivet gun", "pop riveter"],
-    "tool_68": ["rubber mallet white black head", "dead blow hammer mallet"],
+    "tool_68": ["rubber mallet", "gummi hammer rubber"],
+    "tool_70": ["stepladder ladder", "step ladder"],
     "tool_71": ["workbench", "werkbank"],
-    "tool_73": ["scaffold boards", "scaffold deck steel"],
+    "tool_73": ["scaffold plank timber", "scaffolding board wood"],
 }
 
 
@@ -191,7 +195,7 @@ def main():
             manifest = json.load(f)
 
     missing = []
-    for i, (cat, official, aliases, func, queries) in enumerate(TOOLS, start=1):
+    for i, (cat, official, aliases, func, queries, *_extra) in enumerate(TOOLS, start=1):
         tid = f"tool_{i:02d}"
         if tid in manifest and os.path.exists(os.path.join(IMG_DIR, manifest[tid]["file"])):
             print(f"SKIP {tid} {official}")

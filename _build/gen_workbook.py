@@ -40,12 +40,12 @@ def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def build_question(num, cat_idx, official, aliases, func, img_file, all_primary_names):
+def build_question(num, cat_idx, official, aliases, english, func, img_file, all_primary_names):
     answer = aliases[0]  # 대표 현장명칭 = 블로그 첫 별칭
     pool = [n for n in all_primary_names if n != answer]
     rng = random.Random(f"{SEED}-{num}")
     same_cat_pool = []
-    for ci, _, al, _, _ in TOOLS:
+    for ci, _, al, _, _, _ in TOOLS:
         if ci == cat_idx and al[0] != answer and al[0] not in same_cat_pool:
             same_cat_pool.append(al[0])
     distractors = set()
@@ -96,6 +96,7 @@ def build_question(num, cat_idx, official, aliases, func, img_file, all_primary_
 <p>다음 공구의 <strong>현장 명칭(별칭)</strong>을 떠올려 보세요.</p>
 {img_html}
 <p><strong>정식 명칭:</strong> {official_display}<br/>
+<strong>영문 명칭:</strong> {esc(english)}<br/>
 <strong>기능:</strong> {esc(func)}</p>
 </details></li></ul>
 <ul class="toggle"><li><details open=""><summary>질문</summary>
@@ -126,7 +127,7 @@ def main():
 
     for cat_idx, cat_name in enumerate(CATEGORIES):
         items_html = []
-        for i, (ci, official, aliases, func, _) in enumerate(TOOLS):
+        for i, (ci, official, aliases, func, _, english) in enumerate(TOOLS):
             if ci != cat_idx:
                 continue
             qnum += 1
@@ -143,7 +144,7 @@ def main():
             else:
                 no_image_tools.append((tid, official))
             items_html.append(
-                build_question(qnum, ci, official, aliases, func, img_file, primary_names)
+                build_question(qnum, ci, official, aliases, english, func, img_file, primary_names)
             )
         body = f'\n<h2 class="section-title">{cat_idx + 1}. {cat_name} <span style="font-size:0.75em;color:#888;">({len(items_html)}문항)</span></h2>\n\n'
         body += "\n<hr/>\n".join(items_html)

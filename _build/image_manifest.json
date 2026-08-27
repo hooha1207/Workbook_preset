@@ -223,14 +223,6 @@
     "license": "Public domain",
     "artist": "Jayess"
   },
-  "tool_52": {
-    "official": "리머",
-    "file": "tool_52.png",
-    "source_title": "File:Reamer 4 (PSF).png",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3AReamer_4_%28PSF%29.png",
-    "license": "Public domain",
-    "artist": "Pearson Scott Foresman"
-  },
   "tool_55": {
     "official": "나사 절삭기",
     "file": "tool_55.jpg",
@@ -311,14 +303,6 @@
     "license": "Public domain",
     "artist": "Juha Kämäräinen"
   },
-  "tool_70": {
-    "official": "사다리",
-    "file": "tool_70.png",
-    "source_title": "File:Stepladder (PSF).png",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3AStepladder_%28PSF%29.png",
-    "license": "Public domain",
-    "artist": "Pearson Scott Foresman"
-  },
   "tool_72": {
     "official": "이동식 비계",
     "file": "tool_72.jpg",
@@ -375,14 +359,6 @@
     "license": "CC BY-SA 4.0",
     "artist": "Eiliv"
   },
-  "tool_22": {
-    "official": "핸드 그라인더",
-    "file": "tool_22.jpg",
-    "source_title": "File:Steel iron construction worker - 8338.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3ASteel_iron_construction_worker_-_8338.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Jorge Royan"
-  },
   "tool_32": {
     "official": "전동 드릴",
     "file": "tool_32.jpg",
@@ -431,14 +407,6 @@
     "license": "CC BY-SA 3.0",
     "artist": "Dmitry G"
   },
-  "tool_68": {
-    "official": "고무망치",
-    "file": "tool_68.jpg",
-    "source_title": "File:Dead blow hammer.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3ADead_blow_hammer.jpg",
-    "license": "Public domain",
-    "artist": "Dfloren1 at English Wikipedia"
-  },
   "tool_01": {
     "official": "라쳇 렌치 / 라쳇 핸들",
     "file": "tool_01.jpg",
@@ -446,14 +414,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3ARatchet_wrench_with_single_nail.jpg",
     "license": "CC0",
     "artist": "M338"
-  },
-  "tool_04": {
-    "official": "유니버셜 조인트",
-    "file": "tool_04.png",
-    "source_title": "File:Universal Joint (PSF).png",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3AUniversal_Joint_%28PSF%29.png",
-    "license": "Public domain",
-    "artist": "Pearson Scott Foresman"
   },
   "tool_11": {
     "official": "토크 렌치",
@@ -535,30 +495,6 @@
     "license": "CC BY-SA 4.0",
     "artist": "Roy Egloff"
   },
-  "tool_73": {
-    "official": "비계 발판",
-    "file": "tool_73.jpg",
-    "source_title": "File:Tongue and groove deck boards have been installed over the porch deck framing and preservationists begin priming the wood. (e835661e-a2c8-4673-8e4c-8910c432b68f).jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3ATongue_and_groove_deck_boards_have_been_installed_over_the_porch_deck_framing_and_preservationists_begin_priming_the_wood._%28e835661e-a2c8-4673-8e4c-8910c432b68f%29.jpg",
-    "license": "Public domain",
-    "artist": "NPS Photo"
-  },
-  "tool_03": {
-    "official": "익스텐션 바",
-    "file": "tool_03.jpg",
-    "source_title": "File:Breaker bar.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3ABreaker_bar.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Scientific29"
-  },
-  "tool_40": {
-    "official": "앙카 펀치",
-    "file": "tool_40.jpg",
-    "source_title": "File:Anchor bolt in concrete.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File%3AAnchor_bolt_in_concrete.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Zeizmic at English Wikipedia"
-  },
   "tool_50": {
     "official": "체인 렌치",
     "file": "tool_50.jpg",
@@ -574,5 +510,45 @@
     "source_url": "https://commons.wikimedia.org/wiki/File%3AHand_files_and_rasps.jpg",
     "license": "CC BY-SA 4.0",
     "artist": "Michaelkurek011"
+  },
+  "tool_04": {
+    "official": "유니버셜 조인트",
+    "file": "tool_04.jpg",
+    "source_title": "File:Universal joint 3slash8 inches.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Universal_joint_3slash8_inches.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": ""
+  },
+  "tool_22": {
+    "official": "핸드 그라인더",
+    "file": "tool_22.jpg",
+    "source_title": "File:Faschina-concrete angle grinder-Betontrennschleifen-13ASD.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFaschina-concrete_angle_grinder-Betontrennschleifen-13ASD.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Asurnipal"
+  },
+  "tool_52": {
+    "official": "리머",
+    "file": "tool_52.png",
+    "source_title": "File:Reamer 4 (PSF).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AReamer_4_%28PSF%29.png",
+    "license": "Public domain",
+    "artist": "Pearson Scott Foresman"
+  },
+  "tool_68": {
+    "official": "고무망치",
+    "file": "tool_68.jpg",
+    "source_title": "File:Rubber mallets.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARubber_mallets.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "MartinMerinsky"
+  },
+  "tool_70": {
+    "official": "사다리",
+    "file": "tool_70.png",
+    "source_title": "File:Stepladder (PSF).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AStepladder_%28PSF%29.png",
+    "license": "Public domain",
+    "artist": "Pearson Scott Foresman"
   }
 }
