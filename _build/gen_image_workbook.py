@@ -78,7 +78,8 @@ def build_question(num, cat_idx, official, aliases, english, func, answer_img, o
 </details></li></ul>
 <ul class="toggle"><li><details open=""><summary>정답</summary><p>{correct}</p></details></li></ul>
 <ul class="toggle"><li><details open=""><summary>해설</summary>
-<p>이 공구의 정식 명칭은 <strong>{official_esc}</strong>이며, 현장에서는 <strong>{esc(alias_str)}</strong>(으)로 불립니다.</p>
+<p>이 공구의 정식 명칭은 <strong>{official_esc}</strong>이며, 현장에서는 <strong>{esc(alias_str)}</strong>(으)로 불립니다. 아래 이미지가 정답입니다.</p>
+<img class="option-img" src="images/{esc(answer_img)}" alt="정답 이미지"/>
 <p>{esc(func)}</p>
 </details></li></ul>
 </details></li></ul>

@@ -57,6 +57,15 @@ for b in blocks:
         print(f"[MISMATCH] {tid} {official}: 정답이미지={correct_img}, 기대={expect_file}")
         bad_pos += 1
 
+    # 해설 이미지가 정답 공구 이미지와 일치하는지 확인
+    exp = re.search(r"<summary>해설</summary>.*?<img class=\"option-img\" src=\"images/([^\"]+)\"", b, re.S)
+    if not exp:
+        print(f"[NO-EXPLAIN-IMG] {tid} {official}: 해설 이미지 없음")
+        bad_pos += 1
+    elif exp.group(1) != expect_file:
+        print(f"[EXPLAIN-MISMATCH] {tid} {official}: 해설이미지={exp.group(1)}, 기대={expect_file}")
+        bad_pos += 1
+
 # 참조 이미지 존재 확인
 img_dir = os.path.join(ROOT, "Workbook_Public_Samples", "건설현장공구_이미지선택", "images")
 imgs = set(re.findall(r'src="images/([^"]+)"', html))
