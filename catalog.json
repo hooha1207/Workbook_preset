@@ -509,6 +509,15 @@
       "tags": [
         "construction"
       ]
+    },
+    {
+      "id": "korean_sign_language_001",
+      "description": "3D 캐릭터의 수어 이미지·영상을 보고 지문자·지숫자·기초 어휘·수어 상식을 익히는 한국수어 문제집 (데모 20문항)",
+      "file_url": "Workbook_Public_Samples/한국수어/한국수어_문제집.html",
+      "cover_image_url": "Workbook_Public_Samples/한국수어/cover.png",
+      "tags": [
+        "sign language"
+      ]
     }
   ]
 }
